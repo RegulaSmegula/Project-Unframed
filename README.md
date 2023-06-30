@@ -1,5 +1,5 @@
 # Project-Unframed
-Game project Unframed.
+Game project Unframed. A museum trapped between realms. Physicals puzzles and a mysterious narrative.
 
 CURRENT LARGE ISSUE:
 This repo's voicelines don't work because of naming issue, this will be fixed.
