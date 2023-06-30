@@ -1,6 +1,11 @@
 # Project-Unframed
 Game project Unframed. A museum trapped between realms. Physicals puzzles and a mysterious narrative.
 
+IMPORTANT NOTE:
+You will get an error when opening the project, click continue.
+You need to import RealTimeCSG through the package installer when opening the project.
+https://github.com/LogicalError/realtime-CSG-for-unity/releases/tag/Version1_601
+
 CURRENT LARGE ISSUE:
 This repo's voicelines don't work because of naming issue, this will be fixed.
 
