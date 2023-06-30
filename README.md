@@ -11,4 +11,4 @@ Everything was written by me except for the code for the main menu and all its s
 Sources:
 Things used since this was my first time working in C#.
   Code Monkey: How to Pick up and Drop Objects/Items! (First and Third Person, Unity Tutorial)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2IhzPTS4av4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  https://youtu.be/2IhzPTS4av4
